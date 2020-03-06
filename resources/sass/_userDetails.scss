@@ -1,0 +1,114 @@
+/* Main Page */
+
+/*body{
+  background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+}*/
+.emp-profile{
+  /*padding: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;*/
+  border-radius: 0.5rem;
+  background: #fff;
+}
+.profile-img{
+  text-align: right;
+}
+.profile-img img{
+  /*width: 70%;
+  height: 100%;*/
+  margin-top: 30px;
+  width: 240px;
+  height: 240px;
+  float: left;
+}
+.profile-img .file {
+
+  margin-top: -20%;
+  float: left;
+  width: 240px;
+  border: none;
+  border-radius: 0;
+  font-size: 15px;
+  background: #212529b8;
+}
+.profile-img .file input {
+
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
+
+#about{
+  height: 30px;
+  width: 600px;
+  border-bottom: 2px solid;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.profile-head h5{
+  color: #333;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  float: left;
+}
+
+.profile-edit-btn{
+  border: 1px solid;
+  border-radius: 1.5rem;
+  width: 150px;
+  padding: 2%;
+  font-weight: 600;
+  color: #6c6c6c;
+  cursor: pointer;
+  margin-top: 40px;
+}
+.proile-rating{
+  font-size: 12px;
+  color: #818182;
+  margin-top: 5%;
+}
+.proile-rating span{
+  color: #495057;
+  font-size: 15px;
+  font-weight: 600;
+}
+.profile-head .nav-tabs{
+  margin-bottom:5%;
+}
+.profile-head .nav-tabs .nav-link{
+  font-weight:600;
+  border: none;
+}
+.profile-head .nav-tabs .nav-link.active{
+  border: none;
+  border-bottom:2px solid #0062cc;
+}
+.profile-work{
+  padding: 14%;
+  margin-top: -15%;
+}
+.profile-work p{
+  font-size: 12px;
+  color: #818182;
+  font-weight: 600;
+  margin-top: 10%;
+}
+.profile-work a{
+  text-decoration: none;
+  color: #495057;
+  font-weight: 600;
+  font-size: 14px;
+}
+.profile-work ul{
+  list-style: none;
+}
+.profile-tab label{
+  font-weight: 600;
+}
+.profile-tab p{
+  font-weight: 600;
+  color: #0062cc;
+}
+
